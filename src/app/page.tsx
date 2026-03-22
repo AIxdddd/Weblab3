@@ -148,7 +148,7 @@ export default function Home() {
                         e.currentTarget.style.transform = 'scale(1)';
                     }}
                 >
-                    Выйти({localStorage.getItem('user')})
+                    Выйти
                 </button>
 
                 {/* Заголовок */}
