@@ -8,9 +8,9 @@ import Link from "next/link";
 interface StudentInfo {
     fullName: string;
     group: string;
-    variant: number;
+
     brigade: string;
-    specialty: string;
+
 }
 
 export default function ContentPage() {
