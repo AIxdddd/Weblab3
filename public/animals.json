@@ -1,0 +1,20 @@
+[
+  {
+    "header": "Кот кузя",
+    "content": "Потерялся на улице",
+    "email": "kuzya@ya.ru",
+    "img": "https://img.freepik.com/premium-vector/cute-black-cat-sitting-vector_1163677-4913.jpg?semt=ais_hybrid"
+  },
+  {
+    "header": "Собака Чара",
+    "content": "Потерялся на улице",
+    "email": "chara@ya.ru",
+    "img": "https://t3.ftcdn.net/jpg/09/17/47/54/360_F_917475428_Tid6QkRjiv19pUMwAamENgHAgNKdHfgd.jpg"
+  },
+  {
+    "header": "Попугай Кеша",
+    "content": "Потерялся на улице",
+    "email": "kesha@ya.ru",
+    "img": "https://img.freepik.com/premium-photo/view-parrot-nature_198067-8650.jpg"
+  }
+]
